@@ -1,5 +1,5 @@
 
-## Brute Force Tools 
+# Brute Force Tools 
 
 Hydra.- We need to know how to use this tool in certain scenarios where the setup can be a little bit more complex. For HTTP brute forcing we’ll need to build a special payload and also take in count that it will change whether it’s a POST or a GET request.
 
